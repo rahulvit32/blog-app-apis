@@ -1,8 +1,7 @@
-package com.rahul.blog.app.configurations;
+package com.rahul.blog.app.controllers;
 
 import com.rahul.blog.app.payloads.UserDto;
 import com.rahul.blog.app.services.UserService;
-import lombok.Getter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
